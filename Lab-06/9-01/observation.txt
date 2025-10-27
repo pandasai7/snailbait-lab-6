@@ -1,0 +1,2 @@
+When commenting out the this.easingFunction line in the AnimationTimer constructor, I noticed that jumping feels linear and not fluid. When leaving the line in,
+jumping has a sort of acceleration effect and more life-life gravity, whereas without that line the jumping animation looks like a consistent speed up and down.
